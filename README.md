@@ -6,7 +6,7 @@ Submitted by: Dat Nguyen
 
 Time spent: 5 hours spent in total
 
-URL: stormy-chamber-57250.herokuapp.com
+URL: https://young-plateau-11444.herokuapp.com/articles
 
 ## User Stories
 
