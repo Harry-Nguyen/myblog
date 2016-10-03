@@ -1,0 +1,21 @@
+<p id="notice"><%= notice %></p>
+
+<div class="container">
+  <h1>Dat (Harry)'s blog</h1>
+  <h3>This is my first Rails app ever as prework for CoderSchool</h3>
+
+  <form action="/articles" method="get">
+  	<input type="search" name="keyword">
+  	<button type="submit">Search</button>
+  </form>
+  <br>
+  <% if (@keyword != nil) %>
+  	<p>You are searching for <%= @keyword %></p>
+  <% end %>
+
+  <%= render @articles %>
+
+  <br>
+
+  <%= link_to 'New Article', new_article_path %>
+</div>
