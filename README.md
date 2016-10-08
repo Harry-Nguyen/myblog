@@ -4,7 +4,7 @@ myblog is a Ruby on Rails blog application.
 
 Submitted by: Dat Nguyen
 
-Time spent: 5 hours spent in total
+Time spent: 6 hours spent in total
 
 URL: https://young-plateau-11444.herokuapp.com/articles
 
